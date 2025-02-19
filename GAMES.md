@@ -16,3 +16,9 @@ experimental
 ge923
 gamemoderun
 runs exceptionally well stable no jitters no artifacts, 120 fps WOW
+
+## helldivers 2
+ge 924
+--use-d3d11 (allthough performance huge hit)
+stable 40 fps but slo-mo walk
+cap 30
