@@ -23,3 +23,9 @@ fix for now: ge 925
 --use-d3d11 (allthough performance huge hit)
 stable 40 fps but slo-mo walk
 cap 30
+
+## mechabellum
+- ge 9.26
+- gamemoderun %command%
+- first start always freeze entire system for 5-10s
+- after that everything works, alt tab works, sometimes sound glitches (big battlefields)
