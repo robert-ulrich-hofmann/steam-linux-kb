@@ -28,6 +28,7 @@ cap 30
 - ge 9.26 lots of crashes, can't load into match
 - proton experimental better performance, but lots of after game crashes
 - 9.0.4 most stable?
+- 7.0.6 best
 - gamemoderun %command%
 - first start always freeze entire system for 5-10s
 - after that everything works, alt tab works, sometimes sound glitches (big battlefields)
