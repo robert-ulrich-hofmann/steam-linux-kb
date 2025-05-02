@@ -42,4 +42,8 @@
 - fix with pulse buffer, the less the better (less lag) (I needed 90)
 - Proton 9.0.4
 
+## Half Sword Demo / Playtest
+``gamemoderun %command%``
+- 7.0.6
+
 ## next
