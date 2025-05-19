@@ -29,12 +29,11 @@
 
 ## Mechabellum
 ``gamemoderun %command%``
-- ge 9-26 lots of crashes, can't load into match
-- proton experimental better performance, but lots of after game crashes
-- 9.0.4 most stable?
-- 7.0.6 best
-- first start always freeze entire system for 5-10s
-- after that everything works, alt tab works, sometimes sound glitches (big battlefields)
+- 10.0-1 works flawlessly
+- 7.0.6
+  - stable (not a single crash in match)
+  - ingame menu no video, unit modification no 3d models
+  - everything works, alt tab works, sometimes sound glitches (big battlefields)
 
 ## Sniper Elite: Resistance
 ``PULSE_LATENCY_MSEC=90 gamemoderun %command%``
