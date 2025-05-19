@@ -2,9 +2,9 @@
 
 ## HITMAN World of Assassination
 ``gamemoderun %command%``
-- ge 823 works
-- ge 826 works
-- ge 832 does not work anymore!
+- ge 8-23 works
+- ge 8-26 works
+- ge 8-32 does not work anymore!
 - exclusive fullscreen 50 instead 30 fps
 - but all settings rainbow lighting
 - doesnt start with 7 9 e h or ge
@@ -15,20 +15,21 @@
 ``gamemoderun %command%``
 - 7.0.6 to install ea
 - experimental
-- ge923
+- ge9-23
 - runs exceptionally well stable no jitters no artifacts, 120 fps WOW
 
 ## Helldivers 2
 ``gamemoderun %command% --use-d3d11``
 - for some reason dx12 (standard) doesn't work anymore (black screen with running game and hud (you can hear and move normally) as soon as entering any mission), it used to. (uncapped fps, 40-50) and the performance was way better.
-- fix for now: ge 925
+- fix for now: ge 9-25
 - --use-d3d11 (allthough performance huge hit)
 - stable 40 fps but slo-mo walk
 - cap 30
+- update: issue still persists. runs better with ge10-1
 
 ## Mechabellum
 ``gamemoderun %command%``
-- ge 9.26 lots of crashes, can't load into match
+- ge 9-26 lots of crashes, can't load into match
 - proton experimental better performance, but lots of after game crashes
 - 9.0.4 most stable?
 - 7.0.6 best
