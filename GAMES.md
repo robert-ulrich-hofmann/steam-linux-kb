@@ -25,7 +25,7 @@
 - --use-d3d11 (allthough performance huge hit)
 - stable 40 fps but slo-mo walk
 - cap 30
-- update: issue still persists. runs better with ge10-1
+- update: issue still persists. runs better with 10.0.1
 
 ## Mechabellum
 ``gamemoderun %command%``
