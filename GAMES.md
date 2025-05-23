@@ -28,17 +28,13 @@
 ## Mechabellum
 ``gamemoderun %command%``
 - 10.0-1 works flawlessly
-- 7.0.6
-  - stable (not a single crash in match)
-  - ingame menu no video, unit modification no 3d models
-  - everything works, alt tab works, sometimes sound glitches (big battlefields)
 
 ## Sniper Elite: Resistance
 ``PULSE_LATENCY_MSEC=90 gamemoderun %command%``
+- Proton 10.0.1
 - disable efficiency cores
 - crackling audio only in cutscenes and kill cams, not in normal game
 - fix with pulse buffer, the less the better (less lag) (I needed 90)
-- Proton 9.0.4
 
 ## Half Sword Demo / Playtest
 ``gamemoderun %command%``
