@@ -26,8 +26,10 @@
 - for some reason dx12 (standard) doesn't work anymore (black screen with running game and hud (you can hear and move normally) as soon as entering any mission), it used to. (uncapped fps, 40-50) and the performance was way better.
 
 ## Mechabellum
-``gamemoderun %command%``
+``gamemoderun %command% -USEALLAVAILABLECORES``
+- disable efficiency cores for stable fps (otherwise dips below 30)
 - 10.0-1 works flawlessly
+- `-USEALLAVAILABLECORES` gets performance from 30 fps -> 45-60 fps
 
 ## Sniper Elite: Resistance
 ``PULSE_LATENCY_MSEC=90 gamemoderun %command% -USEALLAVAILABLECORES``
@@ -35,7 +37,7 @@
 - disable efficiency cores or the performance will drop to from 40 to 15 fps within minutes of loading a game
 - crackling audio only in cutscenes and kill cams, not in normal game
 - fix with pulse buffer, the less the better (less lag) (I needed 90)
-- `USEALLAVAILABLECORES` gives 5 FPS boost (on 6 real cores without HT)
+- `-USEALLAVAILABLECORES` gives 5 FPS boost (on 6 real cores without HT)
 
 ## Half Sword Demo / Playtest
 ``gamemoderun %command%``
