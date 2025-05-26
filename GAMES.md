@@ -30,11 +30,12 @@
 - 10.0-1 works flawlessly
 
 ## Sniper Elite: Resistance
-``PULSE_LATENCY_MSEC=90 gamemoderun %command%``
+``PULSE_LATENCY_MSEC=90 gamemoderun %command% -USEALLAVAILABLECORES``
 - Proton 10.0.1
-- disable efficiency cores
+- disable efficiency cores or the performance will drop to from 40 to 15 fps within minutes of loading a game
 - crackling audio only in cutscenes and kill cams, not in normal game
 - fix with pulse buffer, the less the better (less lag) (I needed 90)
+- `USEALLAVAILABLECORES` gives 5 FPS boost (on 6 real cores without HT)
 
 ## Half Sword Demo / Playtest
 ``gamemoderun %command%``
