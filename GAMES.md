@@ -29,7 +29,7 @@
 ``gamemoderun %command% -USEALLAVAILABLECORES``
 - disable efficiency cores for stable fps (otherwise dips below 30)
 - 10.0-1 works flawlessly
-- `-USEALLAVAILABLECORES` gets performance from 30 fps -> 45-60 fps
+- `-USEALLAVAILABLECORES` gets performance from 30 fps -> 45 fps
 
 ## Sniper Elite: Resistance
 ``PULSE_LATENCY_MSEC=90 gamemoderun %command% -USEALLAVAILABLECORES``
