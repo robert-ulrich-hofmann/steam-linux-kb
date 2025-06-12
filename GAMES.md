@@ -8,7 +8,7 @@
 - exclusive fullscreen 50 instead 30 fps
 - but all settings rainbow lighting
 - doesnt start with 7 9 e h or ge
-- enable vsync x2 it will still be uncapped but way less bugs
+- `-USEALLAVAILABLECORES` leads to rainbow lighting
 - disable ecores (number of cores? weak cores?)
 
 ## Mass Effect Legendary Edition
