@@ -47,6 +47,11 @@
 ``PROTON_USE_WINED3D=1 PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 gamemoderun %command%``
 - Proton 7.0.6
 
+## RoboCop: Rogue City
+``gamemoderun %command%``
+- ge10-4
+- crackling audio during video?
+
 ## next
 ``gamemoderun %command%``
 - version
