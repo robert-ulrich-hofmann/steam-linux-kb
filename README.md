@@ -38,3 +38,5 @@ since proton 10
  use flatpak auto ge for games you always want to run with newest shit. (moving target, only if games are very stable and reliable)
 
 everything else peg to specific version
+
+todo: what's special about 706 and ge826? seems around these versions were generational leaps that prevent older games from running on anything released after. is this intel specific?
