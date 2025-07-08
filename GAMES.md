@@ -48,9 +48,9 @@
 - Proton 7.0.6
 
 ## RoboCop: Rogue City
-``gamemoderun %command%``
-- ge10-4
-- crackling audio during video?
+``PULSE_LATENCY_MSEC=30 gamemoderun %command% -USEALLAVAILABLECORES``
+- ge10-8
+- badly optimized, needs to run with xess on performance (allthough it's still really enjoyable!)
 
 ## next
 ``gamemoderun %command%``
