@@ -26,10 +26,10 @@
 - for some reason dx12 (standard) doesn't work anymore (black screen with running game and hud (you can hear and move normally) as soon as entering any mission), it used to. (uncapped fps, 40-50) and the performance was way better.
 
 ## Mechabellum
-``gamemoderun %command% -USEALLAVAILABLECORES``
+``gamemoderun %command%``
 - disable efficiency cores for stable fps (otherwise dips below 30)
 - 10.0-1 works flawlessly
-- `-USEALLAVAILABLECORES` gets performance from 30 fps -> 45 fps
+- lock fps @30, it will break down to single digit fps in later rounds anyway
 
 ## Sniper Elite: Resistance
 ``PULSE_LATENCY_MSEC=90 gamemoderun %command% -USEALLAVAILABLECORES``
