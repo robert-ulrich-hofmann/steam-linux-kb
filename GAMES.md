@@ -53,9 +53,9 @@
 - badly optimized, needs to run with xess on performance (allthough it's still really enjoyable!)
 
 ## GTA V Enhanced
-``gamemoderun %command%`` -nobattleeye
+``-nobattleeye`` 
 - ge10-10
-- hassle-free out of the box
+- singleplayer only, hassle-free out of the box. `gamemoderun` does not work.
  
 ## next
 ``gamemoderun %command%``
