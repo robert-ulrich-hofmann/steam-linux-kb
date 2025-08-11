@@ -52,6 +52,11 @@
 - ge10-8
 - badly optimized, needs to run with xess on performance (allthough it's still really enjoyable!)
 
+## GTA V Enhanced
+``gamemoderun %command%`` -nobattleeye
+- ge10-10
+- hassle-free out of the box
+ 
 ## next
 ``gamemoderun %command%``
 - version
