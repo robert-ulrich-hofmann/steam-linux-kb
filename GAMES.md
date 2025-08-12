@@ -56,6 +56,11 @@
 ``-nobattleeye`` 
 - ge10-10
 - singleplayer only, hassle-free out of the box. `gamemoderun` does not work.
+
+## GTA V Legacy
+``gamemoderun %command% -nobattleeye`` 
+- ge10-11
+- singleplayer only, hassle-free out of the box. Way better performance (and no drops / stuttering than Enhanced version)
  
 ## next
 ``gamemoderun %command%``
