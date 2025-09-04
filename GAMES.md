@@ -19,8 +19,8 @@
 - runs exceptionally well stable no jitters no artifacts, 120 fps WOW
 
 ## Helldivers 2
-``--use-d3d11``
-- 8.0.5 runs best
+``%command% --use-d3d11 -USEALLAVAILABLECORES``
+- ge 8-26
 - cap 30, uncapped will result in laggy mouse and your character walking slow motion
 - gamemoderun leads to game guard errors, won't even start with it
 - for some reason dx12 (standard) doesn't work anymore (black screen with running game and hud (you can hear and move normally) as soon as entering any mission), it used to. (uncapped fps, 40-50) and the performance was way better.
