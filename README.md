@@ -34,6 +34,12 @@ since proton 10
 
 
 
+fix grey icon on grey taskbar in light mode desktop system tray
+
+https://github.com/ValveSoftware/steam-for-linux/issues/4281
+`cp /home/robert/.var/app/com.valvesoftware.Steam/.steam/steam/public/steam_tray_posix.tga /home/robert/.local/share/icons/steam_tray_mono.png`
+
+
 
  use flatpak auto ge for games you always want to run with newest shit. (moving target, only if games are very stable and reliable)
 
