@@ -20,15 +20,17 @@
 
 ## Helldivers 2
 ``%command% --use-d3d11 -USEALLAVAILABLECORES``
-- ge 8-26
-- cap 30, uncapped will result in laggy mouse and your character walking slow motion
 - gamemoderun leads to game guard errors, won't even start with it
+- ge 10-25
 - for some reason dx12 (standard) doesn't work anymore (black screen with running game and hud (you can hear and move normally) as soon as entering any mission), it used to. (uncapped fps, 40-50) and the performance was way better.
+- ingame options:
+  - disable cross play (prevent crashing loading into missions screens)
+  - cap 30, uncapped will result in laggy mouse and your character walking slow motion
 
 ## Mechabellum
 ``gamemoderun %command%``
-- disable efficiency cores for stable fps (otherwise dips below 30)
-- 10.0-1 works flawlessly
+- Proton Experimental works perfectly
+- GE does not work at all, game never finishes "Establishing connection to server..." at startup 
 - lock fps @30, it will break down to single digit fps in later rounds anyway
 
 ## Sniper Elite: Resistance
