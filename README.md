@@ -1,5 +1,9 @@
-# steam-linux-kb
-My personal Steam on Linux Knowledge Base
+# linux-gaming-kb
+My personal Linux Gaming Knowledge Base
+- Steam
+- Bottles single games
+- Bottles/battle.net
+- Bottles/wargaming
 
 ## WIP
 
