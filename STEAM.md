@@ -43,7 +43,7 @@
 
 ## Half Sword Demo / Playtest
 ``gamemoderun %command%``
-- 7.0.6
+- ge10-15
 
 ## LEGO Star Wars
 ``PROTON_USE_WINED3D=1 PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 gamemoderun %command%``
