@@ -18,6 +18,12 @@
 - ge9-23
 - runs exceptionally well stable no jitters no artifacts, 120 fps WOW
 
+## Hellcard
+``PROTON_USE_WINED3D=1 PROTON_NO_FSYNC=1 PROTON_NO_ESYNC=1 MESA_GL_VERSION_OVERRIDE=4.4 %command% -USEALLAVAILABLECORES``
+- browse game files before first run and...
+  - make sure that `registry_ccg.xml` contains the correct screen resolution
+  - set `enable_game_analytics` in `ccg_custom_settings.txt` to 0
+
 ## Helldivers 2
 ``%command% --use-d3d11 -USEALLAVAILABLECORES``
 - gamemoderun leads to game guard errors, won't even start with it
