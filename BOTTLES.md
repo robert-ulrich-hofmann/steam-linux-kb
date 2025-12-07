@@ -19,9 +19,9 @@ Battle.NET / Hots
 - Add to `C:\users\YOURUSER\Documents\Heroes of the Stom\Variables.txt`
   ```
   frameratecap=60
-  frameratecapGlue=12
+  frameratecapGlue=60
   ```
-  where `frameratecap` is the fps limit during gaming (focus on application) and `frameratecapGlue` is the fps limit while minimized / out of focus.
+  where `frameratecap` is the fps limit during gaming (focus on application) and `frameratecapGlue` is the fps limit while minimized / out of focus / in certain menus. In HOTS this is, sadly, also concerning the animations in champ select.
 
 Battle.NET / StarCraft II
 
@@ -30,4 +30,4 @@ Battle.NET / StarCraft II
   frameratecap=60
   frameratecapGlue=12
   ```
-  where `frameratecap` is the fps limit during gaming (focus on application) and `frameratecapGlue` is the fps limit while minimized / out of focus.
+  where `frameratecap` is the fps limit during gaming (focus on application) and `frameratecapGlue` is the fps limit while minimized / out of focus / in certain menus.
