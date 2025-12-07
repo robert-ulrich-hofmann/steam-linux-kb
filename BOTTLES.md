@@ -16,7 +16,8 @@ Sims All Expansions
 
 Battle.NET
 
-Switching from / to any Proton runner to any "normal" Wine runner changes your user and and home directory in the Windows context. (Windows user "steamuser" vs "your-linux-username"). After doing that some games can not access their user settings / files anymore (so far I have seen it with StarCraft II and HOTS) and you need to delete them and all their config files and reinstall them.
+Switching from / to any Proton runner to any "normal" Wine runner changes your user and and home directory in the Windows context. (Windows user "steamuser" vs "your-linux-username"). After doing that some games can not access their user settings / files anymore (so far I have seen it with StarCraft II and HOTS), which leads to the "Core: access permission error" error.
+You need to delete the games and all their config files and reinstall them.
 
 Battle.NET / Hots
 
