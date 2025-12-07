@@ -13,3 +13,19 @@ Soldier of Fortune
 Sims All Expansions
 
     archive.org installer
+
+Battle.NET / Hots
+
+    Add to `C:\users\YOURUSER\Documents\Heroes of the Stom\Variables.txt`
+    ```
+    frameratecap=60
+    frameratecapglue=60
+    ```
+
+Battle.NET / Starcraft II
+
+    Add to `C:\users\YOURUSER\Documents\Starcraft II\Variables.txt`
+    ```
+    frameratecap=60
+    frameratecapglue=60
+    ```
