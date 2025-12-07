@@ -16,16 +16,18 @@ Sims All Expansions
 
 Battle.NET / Hots
 
-    Add to `C:\users\YOURUSER\Documents\Heroes of the Stom\Variables.txt`
-    ```
-    frameratecap=60
-    frameratecapglue=60
-    ```
+- Add to `C:\users\YOURUSER\Documents\Heroes of the Stom\Variables.txt`
+  ```
+  frameratecap=60
+  frameratecapGlue=12
+  ```
+  where `frameratecap` is the fps limit during gaming (focus on application) and `frameratecapGlue` is the fps limit while minimized / out of focus.
 
-Battle.NET / Starcraft II
+Battle.NET / StarCraft II
 
-    Add to `C:\users\YOURUSER\Documents\Starcraft II\Variables.txt`
-    ```
-    frameratecap=60
-    frameratecapglue=60
-    ```
+- Add to `C:\users\YOURUSER\Documents\StarCraft II\Variables.txt`
+  ```
+  frameratecap=60
+  frameratecapGlue=12
+  ```
+  where `frameratecap` is the fps limit during gaming (focus on application) and `frameratecapGlue` is the fps limit while minimized / out of focus.
